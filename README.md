@@ -1,4 +1,4 @@
-Here is a comprehensive GitHub README file for the script `convert_and_compress_cr2_multithreaded_resized_corrected.py`. This README provides an overview, prerequisites, installation steps, usage instructions, and troubleshooting tips.
+Here is a comprehensive GitHub README file for the script `cr2topng-compressed.py`. This README provides an overview, prerequisites, installation steps, usage instructions, and troubleshooting tips.
 
 ### GitHub README
 
@@ -64,7 +64,7 @@ cd cr2-to-compressed-png
 
 2. **Run the Script:**
     ```bash
-    python3 convert_and_compress_cr2_multithreaded_resized_corrected.py
+    python3 cr2topng-compressed.py
     ```
 
 ### Example
@@ -77,7 +77,7 @@ output_directory = '/path/to/your/output'
 
 Run the script:
 ```bash
-python3 convert_and_compress_cr2_multithreaded_resized_corrected.py
+python3 cr2topng-compressed.py
 ```
 
 ## Options
