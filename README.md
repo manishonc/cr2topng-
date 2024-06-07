@@ -53,7 +53,7 @@ Before running the script, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cr2-to-compressed-png.git
+git clone https://github.com/your-username/cr2topng-.git
 cd cr2-to-compressed-png
 ```
 
